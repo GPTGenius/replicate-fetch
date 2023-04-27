@@ -1,6 +1,6 @@
 # replicate-fetch
 
-[![npm version](https://img.shields.io/npm/v/replicate-fetch.svg)](https://www.npmjs.com/package/replicate-fetch) ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/GPTGenius/replicate-fetch/ci.yml?branch=main) ![GitHub](https://img.shields.io/github/license/lvqq/cap)
+[![npm version](https://img.shields.io/npm/v/replicate-fetch.svg)](https://www.npmjs.com/package/replicate-fetch) ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/GPTGenius/replicate-fetch/ci.yml?branch=main) ![node-current (scoped)](https://img.shields.io/node/v/replicate-fetch) ![GitHub](https://img.shields.io/github/license/lvqq/cap)
 
 Fetch api for Midjourney/Openjourney on Replicate
 
